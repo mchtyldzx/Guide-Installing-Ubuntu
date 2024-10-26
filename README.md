@@ -2,14 +2,18 @@
 Learn how to set up Ubuntu on your system with this step-by-step guide.
 [1. Ubuntu system requirements](#1-ubuntu-system-requirements)
 [2. Getting ready to install Ubuntu](#2-getting-ready-to-install-ubuntu)
-[3. Installing Ubuntu 24.04](#3-installing-ubuntu-2404)
+[3. Ubuntu Setup](#3-ubuntu-setup-)
+[4. Installing Ubuntu 24.04](#3-installing-ubuntu-2404)
+[5. Closing Remarks](#4-closing-remarks)
+
+## 4. Installing Ubuntu
 
 ## 1. Ubuntu system requirements
 To run Ubuntu effectively, you need a laptop or PC with at least 25 GB of storage space, a 2 GHz dual-core processor, and at least 4 GB of RAM, along with an 8 GB USB flash drive for creating the installation media and a stable internet connection for downloading updates and additional software. For a smoother experience, the recommended specifications include a 2 GHz quad-core processor or better, 8 GB or more of RAM, at least 25 GB of free space (ideally 50 GB or more), a graphics card that supports 3D acceleration, and a display with a resolution of at least 1366x768. Additionally, ensure that your hardware components (such as Wi-Fi adapters and printers) have Linux drivers available, and if your computer uses UEFI firmware, make sure it is configured correctly for Ubuntu installation. If you plan to dual-boot with another operating system, ensure you have sufficient disk space and a compatible partitioning setup.
 
 ## 2. Getting ready to install Ubuntu
 ### 2.1 Installing the image
-First thing you need to this installing the image from ubuntu [website.](https://ubuntu.com/download/desktop).
+First thing you need to this installing the image from ubuntu [website](https://ubuntu.com/download/desktop).
 ![1](https://github.com/user-attachments/assets/3db32a16-56cf-4dc4-9b5d-7b20262f4903)
 
 ### 2.2 Installing Rufus
@@ -28,7 +32,7 @@ After making these changes, save your settings and exit the BIOS. Your computer 
 
 ![set-the-usb-flash-drive-as-the-first-bootable-option](https://github.com/user-attachments/assets/83ad0c96-6a04-40fc-8874-a8a5ca55ef2f)
 
-## 3. Installing Ubuntu 24.04
+## 3. Ubuntu Setup
 After configuring the BIOS settings, restart your computer, and if the USB drive is set correctly (if not refer to this [guide](https://helpdeskgeek.com/how-to/how-to-change-the-boot-order-in-the-bios-on-your-windows-pc), it should boot from the USB, bringing up the Ubuntu installation screen. 
 ### 3.1 Selecting language 
 Here select your preferred language and click "Next".
@@ -46,7 +50,7 @@ while installing which will save your time after the installation is finished.
 
 ![wifi](https://github.com/user-attachments/assets/aa89f2b5-e8fd-4727-a036-006a5c42a126)
 
-## 4. Installing Ubuntu
+## 4. Installing Ubuntu 24.04
 After that click "Install Ubuntu".
 
 
