@@ -7,9 +7,9 @@ Learn how to set up Ubuntu on your system with this step-by-step guide.
 
 [3. Installing Ubuntu 24.04](#3-installing-ubuntu-2404)
 
-[4. Continuing the Ubuntu Installation](#4-continuing-the-ubuntu-installation)
+[4. Continuing the Ubuntu installation](#4-continuing-the-ubuntu-installation)
 
-[5. Closing Remarks](#5-closing-remarks)
+[5. Closing remarks](#5-closing-remarks)
 
 
 ## 4. Installing Ubuntu
@@ -27,12 +27,12 @@ After you downloaded the iso file it needs to be written to an installation medi
 ![2](https://github.com/user-attachments/assets/f9c34433-6648-4558-aa12-1eceb6233097)
 
 
-### 2.3 Creating a Bootable USB Drive with Rufus
+### 2.3 Creating a bootable USB drive with Rufus
 Once Rufus is downloaded, launch the application. You will see an interface where you can select your USB flash drive from the dropdown menu. Make sure to choose the correct drive to avoid data loss. Next, select the ISO image you downloaded earlier. After that, click the "Start" button to begin the process of creating the bootable USB drive. Follow any prompts that appear to complete the setup, and once finished, your USB drive will be ready for the Ubuntu installation.
 
 ![3](https://github.com/user-attachments/assets/1c44c9af-34e3-43cf-ab3c-7e331f68d249)
 
-### 2.4 Accessing BIOS and Setting the USB Drive as the First Boot Option
+### 2.4 Accessing BIOS and setting the USB drive as the First Boot Option
 Once the bootable USB drive has been created using Rufus, the next step is to access the BIOS setup. Restart your computer and during the boot process, press the designated key to enter the BIOS menu (common keys include F2, F10, F12, or Del, depending on your system). In the BIOS settings, locate the boot order options and set the USB drive as the first boot device.
 After making these changes, save your settings and exit the BIOS. Your computer will now boot from the USB drive, allowing you to start the Ubuntu installation process.
 
@@ -56,7 +56,7 @@ while installing which will save your time after the installation is finished.
 
 ![wifi](https://github.com/user-attachments/assets/aa89f2b5-e8fd-4727-a036-006a5c42a126)
 
-## 4. Continuing the Ubuntu Installation
+## 4. Continuing the Ubuntu installation
 After that click "Install Ubuntu".
 
 
@@ -68,7 +68,7 @@ Then click "Interactive installation".
 ![inter](https://github.com/user-attachments/assets/41828266-5f96-43d7-940c-3963c33eb6aa)
 
 
-### 4.1 Selection Options
+### 4.1 Selection options
 
 ![def](https://github.com/user-attachments/assets/35c7e17c-b3b7-451b-ae91-7021ec31835f)
 
@@ -106,5 +106,5 @@ After rebooting your PC you can remove your USB flash drive then press "Enter".
 
 ![remove](https://github.com/user-attachments/assets/0aaf30eb-e81e-44e6-a2ab-77629fee1537)
 
-## 5. Closing Remarks
+## 5. Closing remarks
 Well done! Now explore the Ubuntu desktop environment and start personalizing your system. Ubuntu offers a wide range of applications, tools, and customization options that cater to different user needs, whether for personal use, development, or professional work. Remember to update your system regularly to keep it secure and take advantage of the latest features. Enjoy your new Ubuntu experience and welcome to the world of open-source!
