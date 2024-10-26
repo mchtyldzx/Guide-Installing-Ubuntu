@@ -5,11 +5,12 @@ Learn how to set up Ubuntu on your system with this step-by-step guide.
 
 [2. Getting ready to install Ubuntu](#2-getting-ready-to-install-ubuntu)
 
-[3. Ubuntu Setup](#3-ubuntu-setup-).
+[3. Ubuntu Setup](#3-ubuntu-setup)
 
-[4. Installing Ubuntu 24.04](#3-installing-ubuntu-2404).
+[4. Installing Ubuntu 24.04](#4-installing-ubuntu-2404)
 
-[5. Closing Remarks](#4-closing-remarks).
+[5. Closing Remarks](#5-closing-remarks)
+
 
 ## 4. Installing Ubuntu
 
