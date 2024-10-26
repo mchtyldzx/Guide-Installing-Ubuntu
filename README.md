@@ -19,11 +19,11 @@ To run Ubuntu effectively, you need a laptop or PC with at least 25 GB of storag
 
 ## 2. Getting ready to install Ubuntu
 ### 2.1 Installing the image
-First thing you need to this installing the image from ubuntu [website](https://ubuntu.com/download/desktop).
+First thing you need to do is installing the image from ubuntu [website](https://ubuntu.com/download/desktop).
 ![1](https://github.com/user-attachments/assets/3db32a16-56cf-4dc4-9b5d-7b20262f4903)
 
 ### 2.2 Installing Rufus
-After you downloaded the iso file it needs to be written to an installation medium, such as a flash drive. You can utilize the Etcher or Unetbootin utilities to create a bootable Linux flash drive. If you're using Windows, the [Rufus](https://rufus.ie/en/) utility is a great option for writing the image to the flash drive.
+After downloading the ISO file, it needs to be written to an installation medium, such as a flash drive. You can utilize the Etcher or Unetbootin utilities to create a bootable Linux flash drive. If you're using Windows, the [Rufus](https://rufus.ie/en/) utility is a great option for writing the image to the flash drive.
 ![2](https://github.com/user-attachments/assets/f9c34433-6648-4558-aa12-1eceb6233097)
 
 
@@ -33,7 +33,7 @@ Once Rufus is downloaded, launch the application. You will see an interface wher
 ![3](https://github.com/user-attachments/assets/1c44c9af-34e3-43cf-ab3c-7e331f68d249)
 
 ### 2.4 Accessing BIOS and setting the USB drive as the First Boot Option
-Once the bootable USB drive has been created using Rufus, the next step is to access the BIOS setup. Restart your computer and during the boot process, press the designated key to enter the BIOS menu (common keys include F2, F10, F12, or Del, depending on your system). In the BIOS settings, locate the boot order options and set the USB drive as the first boot device.
+Once the bootable USB drive has been created using Rufus, the next step is to access the BIOS setup. Restart your computer then press the designated key to enter the BIOS menu (common keys include F2, F10, F12, or Del, depending on your system). In the BIOS settings, locate the boot order options and set the USB drive as the first boot device.
 After making these changes, save your settings and exit the BIOS. Your computer will now boot from the USB drive, allowing you to start the Ubuntu installation process.
 
 ![set-the-usb-flash-drive-as-the-first-bootable-option](https://github.com/user-attachments/assets/83ad0c96-6a04-40fc-8874-a8a5ca55ef2f)
@@ -90,19 +90,19 @@ Select ur timezone here.
 
 ![IMG-20241026-WA0037](https://github.com/user-attachments/assets/b29f5363-4dc2-4253-8d68-9c90e009198c)
 
-### 4.3 Review your choices
+### 4.5 Review your choices
 You should take a look at this carefully once again.
 Then click "Install".
 
 ![rewiev](https://github.com/user-attachments/assets/771b02ef-4e9c-4181-bdf4-31f740c5b243)
 
-### 4.5 Restarting PC
-After the ubuntu is installed restart your PC.
+### 4.6 Restarting PC
+After Ubuntu is installed restart your PC.
 
 ![reset](https://github.com/user-attachments/assets/78cbea36-43c5-4c43-82e1-ace43a4eca30)
 
-### 4.6 Removing USB flash drive
-After rebooting your PC you can remove your USB flash drive then press "Enter".
+### 4.7 Removing USB flash drive
+After rebooting your PC you can remove your USB flash drive and press "Enter".
 
 ![remove](https://github.com/user-attachments/assets/0aaf30eb-e81e-44e6-a2ab-77629fee1537)
 
