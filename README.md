@@ -68,24 +68,24 @@ Then click "Interactive installation".
 ![inter](https://github.com/user-attachments/assets/41828266-5f96-43d7-940c-3963c33eb6aa)
 
 
+### 4.1 Selection Options
 
 ![def](https://github.com/user-attachments/assets/35c7e17c-b3b7-451b-ae91-7021ec31835f)
 
 Here extended selection generally offers more options and flexibility, while default selection provides a simpler and more user-friendly experience. If you’re a beginner and prefer a less complicated approach, default selection might be the friendlier option. However, if you want more control and options, extended selection can be a good choice. Ultimately, it depends on the user experience; for newcomers, default selection may be more suitable.
 
-
-### 4.1 Disk setup
+### 4.2 Disk setup
 
 ![part](https://github.com/user-attachments/assets/a9302881-4561-42c8-ae56-93889ab9c0ec)
 
 This screen provides three options: installing Ubuntu alongside an existing OS, erasing the disk to install Ubuntu from scratch, and a manual installation for advanced users to customize partitions. I recommend choosing the "Erase disk and install Ubuntu" option, as this will completely remove all existing data on the disk before installing Ubuntu. After selecting your preferred option click "Next".
 
-### 4.2 Creating account
+### 4.3 Creating account
 After that create your account.
 
 ![acc](https://github.com/user-attachments/assets/17a8897e-66f6-4299-9322-804c31b90953)
 
-### 4.3 Selecting timezone
+### 4.4 Selecting timezone
 Select ur timezone here.
 
 ![IMG-20241026-WA0037](https://github.com/user-attachments/assets/b29f5363-4dc2-4253-8d68-9c90e009198c)
@@ -96,13 +96,13 @@ Then click "Install".
 
 ![rewiev](https://github.com/user-attachments/assets/771b02ef-4e9c-4181-bdf4-31f740c5b243)
 
-### 4.4 Restarting PC
+### 4.5 Restarting PC
 After the ubuntu is installed restart your PC.
 
 ![reset](https://github.com/user-attachments/assets/78cbea36-43c5-4c43-82e1-ace43a4eca30)
 
-### 4.5 Removing USB flash drive
-After rebooting your PC you can remove your USB flash drive and press "Enter".
+### 4.6 Removing USB flash drive
+After rebooting your PC you can remove your USB flash drive then press "Enter".
 
 ![remove](https://github.com/user-attachments/assets/0aaf30eb-e81e-44e6-a2ab-77629fee1537)
 
