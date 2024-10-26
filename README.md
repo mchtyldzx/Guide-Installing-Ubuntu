@@ -43,7 +43,7 @@ while installing which will save your time after the installation is finished.
 
 ![wifi](https://github.com/user-attachments/assets/aa89f2b5-e8fd-4727-a036-006a5c42a126)
 
-## 4 Installing Ubuntu
+## 4. Installing Ubuntu
 After that click "Install Ubuntu".
 
 
@@ -90,5 +90,5 @@ After rebooting your PC you can remove your USB flash drive and press "Enter".
 
 ![remove](https://github.com/user-attachments/assets/0aaf30eb-e81e-44e6-a2ab-77629fee1537)
 
-## 5 Closing Remarks
+## 5. Closing Remarks
 Well done! Now explore the Ubuntu desktop environment and start personalizing your system. Ubuntu offers a wide range of applications, tools, and customization options that cater to different user needs, whether for personal use, development, or professional work. Remember to update your system regularly to keep it secure and take advantage of the latest features. Enjoy your new Ubuntu experience and welcome to the world of open-source!
