@@ -67,9 +67,12 @@ Then click "Interactive installation".
 
 ![inter](https://github.com/user-attachments/assets/41828266-5f96-43d7-940c-3963c33eb6aa)
 
-Here extended selection generally offers more options and flexibility, while default selection provides a simpler and more user-friendly experience. If you’re a beginner and prefer a less complicated approach, default selection might be the friendlier option. However, if you want more control and options, extended selection can be a good choice. Ultimately, it depends on the user experience; for newcomers, default selection may be more suitable.
+
 
 ![def](https://github.com/user-attachments/assets/35c7e17c-b3b7-451b-ae91-7021ec31835f)
+
+Here extended selection generally offers more options and flexibility, while default selection provides a simpler and more user-friendly experience. If you’re a beginner and prefer a less complicated approach, default selection might be the friendlier option. However, if you want more control and options, extended selection can be a good choice. Ultimately, it depends on the user experience; for newcomers, default selection may be more suitable.
+
 
 ### 4.1 Disk setup
 
