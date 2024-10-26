@@ -76,5 +76,12 @@ Select ur timezone here.
 
 ### 4.3 Review your choices
 You should take a look at this carefully once again.
+Then click "Install".
 
 ![rewiev](https://github.com/user-attachments/assets/771b02ef-4e9c-4181-bdf4-31f740c5b243)
+
+### 4.4 Restarting PC
+After the ubuntu is installed restart your PC.
+
+![reset](https://github.com/user-attachments/assets/78cbea36-43c5-4c43-82e1-ace43a4eca30)
+
