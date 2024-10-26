@@ -19,6 +19,7 @@ After you downloaded the iso file it needs to be written to an installation medi
 
 ### 2.3 Creating a Bootable USB Drive with Rufus
 Once Rufus is downloaded, launch the application. You will see an interface where you can select your USB flash drive from the dropdown menu. Make sure to choose the correct drive to avoid data loss. Next, select the ISO image you downloaded earlier. After that, click the "Start" button to begin the process of creating the bootable USB drive. Follow any prompts that appear to complete the setup, and once finished, your USB drive will be ready for the Ubuntu installation.
+
 ![3](https://github.com/user-attachments/assets/1c44c9af-34e3-43cf-ab3c-7e331f68d249)
 
 ### 2.4 Accessing BIOS and Setting the USB Drive as the First Boot Option
