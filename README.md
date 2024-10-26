@@ -26,4 +26,8 @@ After making these changes, save your settings and exit the BIOS. Your computer 
 ![set-the-usb-flash-drive-as-the-first-bootable-option](https://github.com/user-attachments/assets/83ad0c96-6a04-40fc-8874-a8a5ca55ef2f)
 
 ## 3. Installing Ubuntu 24.04.1
-After configuring the BIOS settings, restart your computer, and if the USB drive is set correctly(if not refer to this guide: [https://helpdeskgeek.com/how-to/how-to-change-the-boot-order-in-the-bios-on-your-windows-pc/]), it should boot from the USB, bringing up the Ubuntu installation screen. Select your preferred language and click "Continue," then choose "Install Ubuntu."
+After configuring the BIOS settings, restart your computer, and if the USB drive is set correctly (if not refer to this [guide](https://helpdeskgeek.com/how-to/how-to-change-the-boot-order-in-the-bios-on-your-windows-pc), it should boot from the USB, bringing up the Ubuntu installation screen. 
+### 3.1 Selecting Language 
+Here select your preferred language and click "Continue".
+![lng](https://github.com/user-attachments/assets/9e82e40f-4688-49df-b64d-feed07d82345)
+
