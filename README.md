@@ -40,5 +40,13 @@ Then, select your keyboard layout and click "Next" again. You may be prompted to
 ### 3.3 Connecting to Wi-Fi
 Next connect to wi-fi, if you do connect to the internet you can do things like downloading updates
 while installing which will save your time after the installation is finished.
+
 ![wifi](https://github.com/user-attachments/assets/aa89f2b5-e8fd-4727-a036-006a5c42a126)
+
+### 3.3 Installing Ubuntu
+After that click Install Ubuntu.
+
+
+![insub](https://github.com/user-attachments/assets/9f8adf42-2eeb-4d68-9b1d-6ca7fc34e273)
+
 
