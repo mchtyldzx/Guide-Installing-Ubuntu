@@ -85,3 +85,10 @@ After the ubuntu is installed restart your PC.
 
 ![reset](https://github.com/user-attachments/assets/78cbea36-43c5-4c43-82e1-ace43a4eca30)
 
+### 4.5 Removing USB flash drive
+After rebooting your PC you can remove your USB flash drive and press "Enter".
+
+![remove](https://github.com/user-attachments/assets/0aaf30eb-e81e-44e6-a2ab-77629fee1537)
+
+## 5 Closing Remarks
+Well done! Now explore the Ubuntu desktop environment and start personalizing your system. Ubuntu offers a wide range of applications, tools, and customization options that cater to different user needs, whether for personal use, development, or professional work. Remember to update your system regularly to keep it secure and take advantage of the latest features. Enjoy your new Ubuntu experience and welcome to the world of open-source!
