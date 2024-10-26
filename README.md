@@ -44,20 +44,24 @@ while installing which will save your time after the installation is finished.
 ![wifi](https://github.com/user-attachments/assets/aa89f2b5-e8fd-4727-a036-006a5c42a126)
 
 ## 4 Installing Ubuntu
-After that click Install Ubuntu.
+After that click "Install Ubuntu".
 
 
 ![insub](https://github.com/user-attachments/assets/9f8adf42-2eeb-4d68-9b1d-6ca7fc34e273)
 
 
-Then click interactive installation
+Then click "Interactive installation".
 ![inter](https://github.com/user-attachments/assets/41828266-5f96-43d7-940c-3963c33eb6aa)
 
 Here extended selection generally offers more options and flexibility, while default selection provides a simpler and more user-friendly experience. If you’re a beginner and prefer a less complicated approach, default selection might be the friendlier option. However, if you want more control and options, extended selection can be a good choice. Ultimately, it depends on the user experience; for newcomers, default selection may be more suitable.
 ![def](https://github.com/user-attachments/assets/35c7e17c-b3b7-451b-ae91-7021ec31835f)
 
-### 4.1 Disk Setup
+### 4.1 Disk setup
 
 ![part](https://github.com/user-attachments/assets/a9302881-4561-42c8-ae56-93889ab9c0ec)
 
-This screen in the Ubuntu installation process provides three options: installing Ubuntu alongside an existing OS, erasing the disk to install Ubuntu from scratch, and a manual installation for advanced users to customize partitions. I recommend choosing the "Erase disk and install Ubuntu" option, as this will completely remove all existing data on the disk before installing Ubuntu. After selecting your preferred option, click "Next" to proceed with the installation.
+This screen provides three options: installing Ubuntu alongside an existing OS, erasing the disk to install Ubuntu from scratch, and a manual installation for advanced users to customize partitions. I recommend choosing the "Erase disk and install Ubuntu" option, as this will completely remove all existing data on the disk before installing Ubuntu. After selecting your preferred option click "Next".
+
+### 4.2 Creating account
+After that create your account.
+![acc](https://github.com/user-attachments/assets/17a8897e-66f6-4299-9322-804c31b90953)
