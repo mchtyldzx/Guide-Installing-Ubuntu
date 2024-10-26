@@ -2,7 +2,7 @@
 Learn how to set up Ubuntu on your system with this step-by-step guide.
 [1. Ubuntu system requirements](#1-ubuntu-system-requirements)
 [2. Getting ready to install Ubuntu](#2-getting-ready-to-install-ubuntu)
-[3. Installing Ubuntu 24.04.1](#3-installing-ubuntu-24-.-04-.-1)
+[3. Installing Ubuntu 24.04.1](#3-installing-ubuntu-24-04)
 
 ## 1. Ubuntu system requirements
 To run Ubuntu effectively, you need a laptop or PC with at least 25 GB of storage space, a 2 GHz dual-core processor, and at least 4 GB of RAM, along with an 8 GB USB flash drive for creating the installation media and a stable internet connection for downloading updates and additional software. For a smoother experience, the recommended specifications include a 2 GHz quad-core processor or better, 8 GB or more of RAM, at least 25 GB of free space (ideally 50 GB or more), a graphics card that supports 3D acceleration, and a display with a resolution of at least 1366x768. Additionally, ensure that your hardware components (such as Wi-Fi adapters and printers) have Linux drivers available, and if your computer uses UEFI firmware, make sure it is configured correctly for Ubuntu installation. If you plan to dual-boot with another operating system, ensure you have sufficient disk space and a compatible partitioning setup.
@@ -26,7 +26,7 @@ Once the bootable USB drive has been created using Rufus, the next step is to ac
 After making these changes, save your settings and exit the BIOS. Your computer will now boot from the USB drive, allowing you to start the Ubuntu installation process.
 ![set-the-usb-flash-drive-as-the-first-bootable-option](https://github.com/user-attachments/assets/83ad0c96-6a04-40fc-8874-a8a5ca55ef2f)
 
-## 3. Installing Ubuntu 24.04.1
+## 3. Installing Ubuntu 24.04
 After configuring the BIOS settings, restart your computer, and if the USB drive is set correctly (if not refer to this [guide](https://helpdeskgeek.com/how-to/how-to-change-the-boot-order-in-the-bios-on-your-windows-pc), it should boot from the USB, bringing up the Ubuntu installation screen. 
 ### 3.1 Selecting language 
 Here select your preferred language and click "Next".
