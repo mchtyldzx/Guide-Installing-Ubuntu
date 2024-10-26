@@ -1,6 +1,6 @@
 # Guide-Installing-Ubuntu
 Learn how to set up Ubuntu on your system with this step-by-step guide.
-[1. Ubuntu system requirements](#1-ubuntu-system-requirements)
+[1. Ubuntu system requirements](#1-ubunttu-system-requirements)
 [2. Preparing to install Ubuntu](#2-getting-ready-to-install-ubuntu)
 
 ## 1. Ubuntu system requirements
