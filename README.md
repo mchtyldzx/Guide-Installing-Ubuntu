@@ -51,9 +51,11 @@ After that click "Install Ubuntu".
 
 
 Then click "Interactive installation".
+
 ![inter](https://github.com/user-attachments/assets/41828266-5f96-43d7-940c-3963c33eb6aa)
 
 Here extended selection generally offers more options and flexibility, while default selection provides a simpler and more user-friendly experience. If you’re a beginner and prefer a less complicated approach, default selection might be the friendlier option. However, if you want more control and options, extended selection can be a good choice. Ultimately, it depends on the user experience; for newcomers, default selection may be more suitable.
+
 ![def](https://github.com/user-attachments/assets/35c7e17c-b3b7-451b-ae91-7021ec31835f)
 
 ### 4.1 Disk setup
@@ -64,4 +66,15 @@ This screen provides three options: installing Ubuntu alongside an existing OS, 
 
 ### 4.2 Creating account
 After that create your account.
+
 ![acc](https://github.com/user-attachments/assets/17a8897e-66f6-4299-9322-804c31b90953)
+
+### 4.3 Selecting timezone
+Select ur timezone here.
+
+![IMG-20241026-WA0037](https://github.com/user-attachments/assets/b29f5363-4dc2-4253-8d68-9c90e009198c)
+
+### 4.3 Review your choices
+You should take a look at this carefully once again.
+
+![rewiev](https://github.com/user-attachments/assets/771b02ef-4e9c-4181-bdf4-31f740c5b243)
