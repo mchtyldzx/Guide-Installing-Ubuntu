@@ -5,9 +5,9 @@ Learn how to set up Ubuntu on your system with this step-by-step guide.
 
 [2. Getting ready to install Ubuntu](#2-getting-ready-to-install-ubuntu)
 
-[3. Ubuntu Setup](#3-ubuntu-setup)
+[3. Installing Ubuntu 24.04](#3-installing-ubuntu-2404)
 
-[4. Installing Ubuntu 24.04](#4-installing-ubuntu-2404)
+[4. Continuing the Ubuntu Installation](#4-continuing-the-ubuntu-installation)
 
 [5. Closing Remarks](#5-closing-remarks)
 
@@ -38,7 +38,7 @@ After making these changes, save your settings and exit the BIOS. Your computer 
 
 ![set-the-usb-flash-drive-as-the-first-bootable-option](https://github.com/user-attachments/assets/83ad0c96-6a04-40fc-8874-a8a5ca55ef2f)
 
-## 3. Ubuntu Setup
+## 3.  Installing Ubuntu 24.04
 After configuring the BIOS settings, restart your computer, and if the USB drive is set correctly (if not refer to this [guide](https://helpdeskgeek.com/how-to/how-to-change-the-boot-order-in-the-bios-on-your-windows-pc), it should boot from the USB, bringing up the Ubuntu installation screen. 
 ### 3.1 Selecting language 
 Here select your preferred language and click "Next".
@@ -56,7 +56,7 @@ while installing which will save your time after the installation is finished.
 
 ![wifi](https://github.com/user-attachments/assets/aa89f2b5-e8fd-4727-a036-006a5c42a126)
 
-## 4. Installing Ubuntu 24.04
+## 4. Continuing the Ubuntu Installation
 After that click "Install Ubuntu".
 
 
